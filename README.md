@@ -1,2 +1,5 @@
 # hello-world
-Beginner's stuff
+
+Hi there~
+
+New to coding. Would appreciate help if offered :3
